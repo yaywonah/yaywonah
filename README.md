@@ -1,5 +1,12 @@
-## Hi there 👋
+## "what's in a hyphen, but a name?" - ye-won seo, aka me
 
+- ☺️ Hi! I'm Ye-Won, commonly misspelled as Yewon, Ye Won, plus a dozen other variations. I'm a front-end developer and current Skillcrush student.
+- 🔭 I'm currently working on my Halloween 2024 project called "Gumiho", which is as the name suggests, a website about the Korean nine-tailed fox.
+- 🌱 I'm learning HTML, CSS, JavaScript, Web Design, and WordPress.
+- 🤔 I'd like to find a coding buddy or mentor to study, motivate, or just occasionally decompress with on our respective coding journeys.
+- 📫 Find me on [LinkedIn](www.linkedin.com/in/yewonseo)!
+- ⚡ I like creating gifsets on tumblr.
+- 
 <!--
 **yaywonah/yaywonah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
