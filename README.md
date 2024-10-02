@@ -6,7 +6,7 @@
 - 🤔 I'd like to find a coding buddy or mentor to study, motivate, or just occasionally decompress with on our respective coding journeys.
 - 📫 Find me on [LinkedIn](www.linkedin.com/in/yewonseo)!
 - ⚡ I like creating gifsets on tumblr.
-- 
+
 <!--
 **yaywonah/yaywonah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
