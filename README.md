@@ -4,7 +4,7 @@
 - 🔭 (current work pending)
 - 🌱 I'm learning HTML, CSS, JavaScript, Web Design, and WordPress.
 - 🤔 I'd like to find a coding buddy or mentor to study, motivate, or just occasionally decompress with on our respective coding journeys.
-- 📫 Find me on [LinkedIn](www.linkedin.com/in/yewonseo)!
+- 📫 Find me on [LinkedIn](https://www.linkedin.com/in/yewonseo/)!
 - ⚡ I like creating gifsets on tumblr.
 
 <!--
